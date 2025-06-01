@@ -57,7 +57,7 @@ Official website for VIT College NSS Unit featuring responsive components and mo
 - 🔗 **Live Demo**: [nssvit.netlify.app](https://nssvit.netlify.app/)
 - ⚡ Features: Responsive design
 
-### 💼 [Portfolio Website](https://github.com/nishashetty1/portfolio)
+### 💼 [Portfolio Website](https://github.com/nishashetty1/my-portfolio)
 A modern, responsive portfolio website showcasing my projects and skills with smooth animations.
 
 **Tech Stack:** Next.js, TypeScript, Tailwind CSS, Firebase, Framer Motion
